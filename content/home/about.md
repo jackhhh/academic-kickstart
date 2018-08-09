@@ -16,12 +16,10 @@ weight = 5
   ]
 
 # List your qualifications (such as academic degrees).
-<!-- example
 [[education.courses]]
   course = "PhD in Artificial Intelligence"
   institution = "Stanford University"
   year = 2012
--->
 
 [[education.courses]]
   course = "BEng in Computer Science"
